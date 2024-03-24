@@ -22,7 +22,7 @@
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
-##💬 Social Links
+## 💬 Social Links
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/thek4rthi)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/thek4rthi )
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000000?style=flat&logo=Whatsapp&logoColor=25D366)](https://wa.me/+918124271002)

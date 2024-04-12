@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://png.pngtree.com/template/20220428/ourmid/pngtree-hacker-typography-banner-with-cyber-attack-symbols-flat-image_1275293.jpg)](https://rishavchanda.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/002/217/827/original/hacker-trendy-banner-vector.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
 <h3 align="center">Cybersecurity Expert Who Specializes in Ethical Hacking</h3>
 

@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k46th1&label=Profile%20views&color=0e75b6&style=flat" alt="k46th1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/k46th1" target="blank"><img src="https://img.shields.io/twitter/follow/thek4rthi?logo=twitter&style=for-the-badge" alt="k46th1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/k46th1" target="blank"><img src="https://img.shields.io/twitter/follow/k46th1?logo=twitter&style=for-the-badge" alt="k46th1" /></a> </p>
 
 - 🔭 I’m currently working on **Web Security**
 

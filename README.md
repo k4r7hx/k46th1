@@ -1,5 +1,3 @@
-
-
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/002/217/827/original/hacker-trendy-banner-vector.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
 <h3 align="center">Cybersecurity Expert Who Specializes in Ethical Hacking</h3>
@@ -23,11 +21,11 @@
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
 ## 💬 Social Links
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/thek4rthi)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/thek4rthi )
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/k46th1)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/k46th1)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000000?style=flat&logo=Whatsapp&logoColor=25D366)](https://wa.me/+918124271002)
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/thek4rthi)
-[![THM](https://img.shields.io/badge/-TryHackMe-000000?style=flat&logo=icloud&logoColor=gray)](https://tryhackme.com/p/thek4rthi)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/k46th1)
+[![THM](https://img.shields.io/badge/-TryHackMe-000000?style=flat&logo=icloud&logoColor=gray)](https://tryhackme.com/p/k46th1)
 
 
 # 💻 Tech Stack:
@@ -36,8 +34,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 	![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)<br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thek4rth1&show_icons=true&locale=en&layout=compact" alt="thek4rth1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k46th1&show_icons=true&locale=en&layout=compact" alt="k46th1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thek4rth1&show_icons=true&locale=en" alt="thek4rth1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k46th1&show_icons=true&locale=en" alt="k46th1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thek4rth1&" alt="thek4rth1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k46th1&" alt="k46th1" /></p>

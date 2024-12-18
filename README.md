@@ -4,28 +4,28 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k46th1&label=Profile%20views&color=0e75b6&style=flat" alt="k46th1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k4r7h1kn&label=Profile%20views&color=0e75b6&style=flat" alt="k4r7h1kn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/k46th1" target="blank"><img src="https://img.shields.io/twitter/follow/k46th1?logo=twitter&style=for-the-badge" alt="k46th1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/k4r7h1kn" target="blank"><img src="https://img.shields.io/twitter/follow/k46th1?logo=twitter&style=for-the-badge" alt="k4r7h1kn" /></a> </p>
 
 - 🔭 I’m currently working on **Web Security**
 
 - 🌱 I’m currently learning Everything 🤣
 
-- 📝 I regularly write articles on [https://medium.com/@thek4rthi](https://medium.com/@thek4rthi)
+- 📝 I regularly write articles on [https://medium.com/@thek4rthi](https://medium.com/@k4r7h1kn)
 
 - 💬 Ask me about **Penetration Testing, Networking and SOC**
 
-- 📫 How to reach me **thek4rthi@gmail.com**
+- 📫 How to reach me **k4r7h1kn@gmail.com**
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
 ## 💬 Social Links
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/k46th1)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/k46th1)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/k4r7h1kn)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/k4r7h1kn)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000000?style=flat&logo=Whatsapp&logoColor=25D366)](https://wa.me/+918124271002)
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/k46th1)
-[![THM](https://img.shields.io/badge/-TryHackMe-000000?style=flat&logo=icloud&logoColor=gray)](https://tryhackme.com/p/k46th1)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/k4r7h1kn)
+[![THM](https://img.shields.io/badge/-TryHackMe-000000?style=flat&logo=icloud&logoColor=gray)](https://tryhackme.com/p/k4r7h1kn)
 
 
 # 💻 Tech Stack:
@@ -34,8 +34,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 	![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)<br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k46th1&show_icons=true&locale=en&layout=compact" alt="k46th1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k46th1&show_icons=true&locale=en&layout=compact" alt="k4r7h1kn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k46th1&show_icons=true&locale=en" alt="k46th1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k46th1&show_icons=true&locale=en" alt="k4r7h1kn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k46th1&" alt="k46th1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k46th1&" alt="k4r7h1kn" /></p>

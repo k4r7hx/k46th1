@@ -34,8 +34,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 	![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)<br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k46th1&show_icons=true&locale=en&layout=compact" alt="k4r7h1kn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k4r7h1kn&show_icons=true&locale=en&layout=compact" alt="k4r7h1kn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k46th1&show_icons=true&locale=en" alt="k4r7h1kn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k4r7h1kn&show_icons=true&locale=en" alt="k4r7h1kn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k46th1&" alt="k4r7h1kn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k4r7h1kn&" alt="k4r7h1kn" /></p>

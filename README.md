@@ -94,4 +94,8 @@
 ---
 
 ## 🎯 Let's Collaborate!
-I'm always open to **security research collaborations, responsible disclosure programs, and knowledge sharing**. Feel free to **connect with me** and let's **make the digital world safer!** 🚀
+I'm always open to **security research collaborations, responsible disclosure programs, and knowledge sharing**. Feel free to **connect with me** and let's **make the digital world safer!** 🚀<br>
+
+## 🐍 GitHub Contribution Snake  
+![Snake animation](https://raw.githubusercontent.com/k4r7h1kn/k4r7h1kn/output/snake.svg)
+

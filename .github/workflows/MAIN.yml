@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -15,16 +15,10 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: k4r7h1kn  # Replace with your GitHub username
-          outputs: dist/snake.svg  # Generates an SVG instead of a GIF
+          github_user_name: k4r7h1kn  # Change this to your GitHub username
+          outputs: dist/snake.svg  # Generates SVG file
 
-      - name: Upload Artifact (SVG)
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-svg
-          path: dist/snake.svg
-
-      - name: Deploy Snake Animation to GitHub Pages
+      - name: Push Generated Snake to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

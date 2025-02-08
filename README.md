@@ -89,7 +89,7 @@
 
 ## 📊 GitHub Stats
 ![Karthikeyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4r7h1kn&show_icons=true&theme=merko)
-[![GitHub Streak](https://streak-stats.demolab.com?user=k4r7h1kn&theme=merko)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=k4r7h1kn&theme=merko)](https://git.io/streak-stats)
 
 ---
 

@@ -82,14 +82,14 @@
     <img src="https://img.shields.io/badge/Tails%20OS-000000?style=for-the-badge&logo=tails&logoColor=56347C" alt="Tails OS" />
     <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=0A0A0A" alt="BlackArch" />
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-</div>
+</div> <br>
 
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k4r7h1kn&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k4r7h1kn&layout=compact&theme=dark)
+![Karthikeyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4r7h1kn&show_icons=true&theme=merko)
+[![GitHub Streak](https://streak-stats.demolab.com?user=k4r7h1kn&theme=merko)](https://git.io/streak-stats)
 
 ---
 

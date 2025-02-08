@@ -86,16 +86,11 @@
 
 
 ---
-
-## 📊 GitHub Stats
-![Karthikeyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4r7h1kn&show_icons=true&theme=merko)
-![GitHub Streak](https://streak-stats.demolab.com?user=k4r7h1kn&theme=merko)](https://git.io/streak-stats)
+## 🐍 GitHub Contribution Snake  
+![Snake animation](https://raw.githubusercontent.com/k4r7h1kn/k4r7h1kn/output/snake.svg)
 
 ---
-
 ## 🎯 Let's Collaborate!
 I'm always open to **security research collaborations, responsible disclosure programs, and knowledge sharing**. Feel free to **connect with me** and let's **make the digital world safer!** 🚀<br>
 
-## 🐍 GitHub Contribution Snake  
-![Snake animation](https://raw.githubusercontent.com/k4r7h1kn/k4r7h1kn/output/snake.svg)
 

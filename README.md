@@ -31,9 +31,6 @@
 <a href="https://medium.com/@k4r7h1kn" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-<a href="https://tryhackme.com/p/k4r7h1kn" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-2DC653?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-</a>
 
 ---
 
